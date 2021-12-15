@@ -1,2 +1,2 @@
 # Vanilla-JavaScript-Projects
-Projects to practise HTML, CSS, JavaScript skills.
+Projects to practice HTML, CSS, JavaScript skills.
